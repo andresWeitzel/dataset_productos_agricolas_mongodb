@@ -16,7 +16,7 @@
 
 </br>
 
-#### Colecciones de Datos
+### Colecciones de Datos
 
 ![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collections.png)
 
@@ -24,20 +24,20 @@
 
 </br>
 
-#### Dataset Tabaco
+### Dataset Tabaco
 
 ![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionTabaco.png)
 
 </br>
 
-#### Dataset Té
+### Dataset Té
 
 ![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionTe.png)
 
 
 </br>
 
-#### Dataset Trigo
+### Dataset Trigo
 
 ![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionTrigo.png)
 
@@ -45,7 +45,7 @@
 
 </br>
 
-#### Dataset Yerba Mate
+### Dataset Yerba Mate
 
 ![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionYerbaMate.png)
 
