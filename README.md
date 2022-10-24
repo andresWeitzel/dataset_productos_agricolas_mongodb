@@ -16,16 +16,39 @@
 
 </br>
 
-#### Colección de datos formato tabla 
+#### Colecciones de Datos
 
-![Index app](https://github.com/andresWeitzel/db_investigacion_desarrollo_mongodb/blob/master/doc/collectionTable.png)
-
-
+![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collections.png)
 
 
-#### Colección de datos formato json 
 
-![Index app](https://github.com/andresWeitzel/db_investigacion_desarrollo_mongodb/blob/master/doc/collectionJson.png)
+</br>
+
+#### Dataset Tabaco
+
+![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionTabaco.png)
+
+</br>
+
+#### Dataset Té
+
+![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionTe.png)
+
+
+</br>
+
+#### Dataset Trigo
+
+![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionTrigo.png)
+
+
+
+</br>
+
+#### Dataset Yerba Mate
+
+![Index app](https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb/blob/master/doc/collectionYerbaMate.png)
+
 
 
 <hr>
@@ -74,10 +97,10 @@
 ### Pasos MongoDB
 
 #### Creamos nuestra db
-* Database Name : db_dataset_investigacion_desarrollo.
-* Collection Name : proyectos
+* Database Name : db_productos_agricolas.
+* Collections Names : tabaco, te, trigo, yerba-mate
 
-#### Agregamos registros desde archivo CSV
+#### Agregar registros desde archivo CSV
 * Seleccionamos nuestra db, seleccionamos la colección productos
 * ADD DATA
 * import file
@@ -85,11 +108,12 @@
 * linkeas el doc csv desde el filesystem de este repo
 * import
 * Si aparecen los registros se ha importado correctamente
+
 </br>
 
 
 
-#### Agregamos registros desde archivo Json
+#### Agregar registros desde archivo Json
 * En mi caso use un convertidor de documentos online, pase el archivo CSV a JSON. 
 
 
@@ -130,7 +154,7 @@
 * git commit -m "agrega un comentario entre comillas"
 
 #### Le indicamos a git donde se va a almacenar nuestro proyecto(fijate en tu repositorio de github cual es el enlace de tu proyecto(esta en code)).
-* git remote add origin https://github.com/andresWeitzel/db_investigacion_desarrollo_mongodb
+* git remote add origin https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb
 
 #### Subimos nuestro proyecto.
 * git push -u origin master
@@ -152,10 +176,10 @@
 
 #### Sincronizamos y traemos todos los cambios del repositorio remoto a la rama en la que estemos trabajando actualmente.
 ##### (SOLO SI SE REALIZARON CAMBIOS DESDE OTRA LADO, ej: en github u/o/y un equipo de trabajo)
-* git pull https://github.com/andresWeitzel/db_investigacion_desarrollo_mongodb
+* git pull https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb
 
 #### Enviamos todos los cambios locales al repo en github
-* git push https://github.com/andresWeitzel/db_investigacion_desarrollo_mongodb
+* git push https://github.com/andresWeitzel/dataset_productos_agricolas_mongodb
 
 #### En casos extremos pisamos todo el repositorio
 * git push -f --set-upstream origin master
