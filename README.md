@@ -3,6 +3,10 @@
 * Dataset acerca de Productos Agrícolas implementando MongoDB y MongoDB Compass.
 * Esta db ha sido creada utilizando datasets públicos nacionales para poder ser implementado a través de una Api Rest con NodeJs. 
 * Link Datasetes públicos : https://www.argentina.gob.ar/economia/politicaeconomica/regionalysectorial/informesproductivos/datasets
+* Dataset Tabaco : apróx 5000 registros.
+* Dataset Té : apróx 2600 registros.
+* Dataset Trigo : apróx 40000 registros.
+* Dataset Yerba Mate : apróx 4000 registros.
 
 
 </br>
